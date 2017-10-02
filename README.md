@@ -1,0 +1,1 @@
+# ConfigData for Spring Cloud
